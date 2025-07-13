@@ -12,7 +12,7 @@ If you have any questions about the source codes, please reach out to the first 
 
 ## Citation
 
-Please cite our work as follows if you use our dataset or the provided source codes in your research:
+Please cite our work as follows if you use the provided source codes in your research:
 
 ````
 @article{altuncu2025,
