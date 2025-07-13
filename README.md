@@ -23,8 +23,12 @@ Please cite our work as follows if you use our dataset or the provided source co
            Guo, Jie and
            Li, Shujun},
   year={2025},
+  volume={16},
+  number={7},
+  articleno={601},
   numpages={23},
   journal={Information},
   publisher={MDPI},
+  doi={10.3390/info16070601}
 }
 ````
